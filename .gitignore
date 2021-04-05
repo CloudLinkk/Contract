@@ -5,3 +5,7 @@ package-lock.json
 build/
 .DS_Store
 yarn.lock
+flattener_airdrop.sol
+Airdrop.sol
+.gitignore
+4_deploy_airdrop.js
