@@ -190,7 +190,3 @@ contract RewardPool is TokenWrapper, IRewardDistributionRecipient {
         _;
     }
 }
-
-// reward token: 0x2720F428ED30b1D7BDc0959C6205a5e9b77CB77e
-// stake token: 0x8dd66eefef4b503eb556b1f50880cc04416b916b
-// stake pool: 0xDf429467bB7801f67fc632F29d523824E25c7B6e
